@@ -1,11 +1,11 @@
-@import url('fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Oswald&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-    font-family: 'poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background: rgb(255, 255, 255);
 }
 /*global tags*/
@@ -109,7 +109,7 @@ nav .navigation ul li a:hover{
     font-weight: 700;
     color: rgb(49, 11, 119);
     margin-left: 40px;
-    padding-top: 40px;
+    padding-top: 30px;
     text-align: left;
 }
 .downform .leftform p{
@@ -502,7 +502,7 @@ nav .navigation ul li a:hover{
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   }
   .f-contact img{
-      width: 150px;
+      width: 100px;
     cursor: pointer;
 }
  
